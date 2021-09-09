@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manibalan!</h1>
 <br>
 
-## 💬 About Me
+## 🤗 About Me
 
-- 👨‍💻I'm someone who is passionate about Linux and likes to automate the boring repeative tasks. I love Programming and understand how the things works.
+- 👨‍💻 I'm someone who is passionate about Linux and likes to automate the boring repeative tasks. I love Programming and understand how the things works.
 - 👀 I’m interested in Cybersecurity, Ethiacal Hacking, Bug Bounty Hunting...
 - 🌱 I’m currently learning Ethical Hacking Complete Path
-- I'm very much pssionate about learning new technologies..
+- 🔥 I'm very much pssionate about learning new technologies..
 - 📫 How to reach me [@manibalanperumal](https://twitter.com/manibalanperumal)
 
 ## 📅 Hobbies
