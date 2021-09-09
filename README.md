@@ -16,7 +16,7 @@
 
 ## 📅 Skills
 - Logical thinking and Problem Solving
-- <a href="#"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C" width="auto" height="50px"/></a>,Bash,Go,<a href="#"<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="auto" height="50px"/></a>,C++,Java
+- <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C" width="auto" height="50px"/></a>,Bash,Go,<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="auto" height="50px"/></a>,C++,Java
 - Automation
 
 ## 📅 Strength of Me
