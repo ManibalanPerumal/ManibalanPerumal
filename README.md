@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manibalan!</h1>
+<h3 align="center">A undergraduate student, software engineer and life-long learner</h3>
 <br>
 
 ## :raising_hand_man: About Me
