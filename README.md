@@ -3,7 +3,6 @@
 <br>
 
 ## :raising_hand_man: About Me
-
 - <h3>👨‍💻 I'm someone who is passionate about Linux and likes to automate the boring repeative tasks. I love Programming and understand how the things works.</h3>
 - <h3>👀 I’m interested in Cybersecurity, Ethiacal Hacking, Bug Bounty Hunting...</h3>
 - <h3>🌱 I’m currently learning Ethical Hacking Complete Path.</h3>
