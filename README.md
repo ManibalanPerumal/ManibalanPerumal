@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @Manibalan
-- 👀 I’m interested in Cybersecurity, Ethiacal Hacking, Bug Bounty Hunting...
-- 🌱 I’m currently learning Ethical Hacking Complete Path
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+<h1 align="center">Hi 👋, I'm Manibalan!</h1>
+<br>
 ## 💬 About Me
 - I'm someone who is passionate about Linux and likes to automate the boring repeative tasks. I love Programming and understand how the things works.
+- 👀 I’m interested in Cybersecurity, Ethiacal Hacking, Bug Bounty Hunting...
+- 🌱 I’m currently learning Ethical Hacking Complete Path
 - I'm very much pssionate about learning new technologies..
-- 
+- 📫 How to reach me 
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, UVa, LeetCode
@@ -15,9 +13,6 @@
 - Read some manga
 - Play videogames
 - etc.
-
-<h1 align="center">Hi 👋, I'm Manibalan!</h1>
-<br>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ManibalanPerumal&show_icons=true&theme=bear" width = 400>
