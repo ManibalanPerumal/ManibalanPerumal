@@ -10,11 +10,6 @@
 - 🔥 I'm very much pssionate about learning new technologies.
 - 📫 How to reach me [@manibalanperumal](https://twitter.com/manibalanperumal)
 
-## 🌱 Hobbies
-- Solve programming problems.
-- Listening Songs.
-- Watch anime and Tv shows.
-
 ## ⚡ Skills
 - High<br />
 &nbsp;&nbsp;&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="C" width="auto" height="35px"/></a><br />
@@ -22,6 +17,10 @@
 &nbsp;&nbsp;&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="C" width="auto" height="35px"/></a><br />
 - Low<br />
 &nbsp;&nbsp;&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/qubodup/New-Blender-Icons/master/blendericon28.svg" alt="C" width="auto" height="35px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="C" width="auto" height="35px"/></a><br />
+## 🌱 Hobbies
+- Solve programming problems.
+- Listening Songs.
+- Watch anime and Tv shows.
 
 ## :muscle: Strength of Me
 - Self Confident.
