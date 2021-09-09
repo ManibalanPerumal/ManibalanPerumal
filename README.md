@@ -14,7 +14,7 @@
 - Listening Songs
 - Watch anime and Tv shows.
 
-## 📅 Skills
+## ⚡ Skills
 ⚡ Logical thinking and Problem Solving<br />
 ⚡ <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="C" width="auto" height="25px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="C" width="auto" height="25px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="C" width="auto" height="25px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="auto" height="25px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C" width="auto" height="25px"/></a>&nbsp;<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="auto" height="25px"/></a><br />
 ⚡ Automation
