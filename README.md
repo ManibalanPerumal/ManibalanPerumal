@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manibalan!</h1>
 <h3 align="center">A undergraduate student, software engineer and life-long learner</h3>
-<br>
 
 ## :raising_hand_man: About Me
 - <h3>👨‍💻 I'm someone who is passionate about Linux and likes to automate the boring repeative tasks. I love Programming and understand how the things works.</h3>
