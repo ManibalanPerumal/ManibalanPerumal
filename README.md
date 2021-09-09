@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 
 ## 💬 About Me
-- I'm someone who is passionate about GNU/Linux and likes to write code. I love Programming and understand how the things works and I'm very much pssionate about learning new technologies..
+- I'm someone who is passionate about Linux and likes to automate the boring repeative tasks. I love Programming and understand how the things works.
+- I'm very much pssionate about learning new technologies..
+- 
 
 ## 📅 Hobbies
 - Solve programming problems at Codeforces, UVa, LeetCode
